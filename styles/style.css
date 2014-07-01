@@ -1,0 +1,144 @@
+body{
+	background-color: #b0c4de;
+}
+
+h1{
+	font: "Arial";
+	font-size: 65px;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+}
+
+h3{
+	font: "Verdana";
+	font-size: 36px;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+}
+
+h4{
+	font: "Arial";
+	font-size: 25px;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+}
+
+#siteTitle{
+	margin: 13px 0 0 10px;
+	height: 70px;
+	width: 300px;
+	float: left;
+}
+
+#logout{
+	margin: 60px 0 0 0;
+	height: 25px;
+	width: 180px;
+	float: right;
+	
+}
+
+#mainContainer{
+	height: 100%;
+	width: 1000px;
+    border-style: solid;
+	border-width: 0px;
+	margin: 0 auto;
+}
+
+#header{
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	text-align: left;
+	height: 100px;
+	width: 100%;
+	margin: 0 auto;
+}
+ 
+#footer{
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	text-align: left;
+	height: 50px;
+	width: 100%;
+	margin: 10px auto;
+	float: right;
+}
+
+#sidebar{
+	background-color: #BDC5CF;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	text-align: left;
+	height: 996px;
+	width: 32.5%;
+	margin: 10px 0px 0px 0px;
+	float: right;
+}
+
+.small{
+	background-color: #BDC5CF;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	text-align: left;
+	height: 324px;
+	width: 66%;
+	float: left;
+	margin: 10px 0px 0px 0px;
+}
+
+#accounts{
+}
+#contacts{
+}	
+#tasks{
+}
+
+.midText{
+	border-style: solid;
+	border-width: 1px;
+	margin: 10px;
+	height: 77%;	
+}
+
+.midTitle{
+	margin: 10px;
+	height: 40px;
+}
+
+.SBTitle{
+	margin: 10px;
+	height: 40px;
+}
+
+.SBText{
+	border-style: solid;
+	border-width: 1px;
+	margin: 10px;
+	height: 92.5%;	
+}
+
+.footTitle{
+	margin: 10px;
+	height: 40px;
+}
+
+#login{
+	background-color: #BDC5CF;
+	height: 100%;
+	width: 200px;
+    border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	margin: 100px auto;
+	padding: 10px;
+}
+
+
