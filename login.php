@@ -9,7 +9,7 @@
 
 <body>
 <div id="login">
-	<form name="login" action="//localhost/LeanCRM/include/verify.php" method="post">
+	<form name="login" action="include/verify.php" method="post">
 		Username:<br>
 		<input type="text" name="username"><br><br>
 		Password:<br>
